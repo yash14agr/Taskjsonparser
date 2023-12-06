@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Taskjsonparser%20/static/css/main.d95541ec.css",
+    "main.js": "/Taskjsonparser%20/static/js/main.cb13d6f0.js",
+    "index.html": "/Taskjsonparser%20/index.html",
+    "main.d95541ec.css.map": "/Taskjsonparser%20/static/css/main.d95541ec.css.map",
+    "main.cb13d6f0.js.map": "/Taskjsonparser%20/static/js/main.cb13d6f0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d95541ec.css",
+    "static/js/main.cb13d6f0.js"
+  ]
+}
